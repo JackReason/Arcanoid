@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Green/Desktop/Arcanoid1/Arc/Content/Arcmap.umap",
+				"C:/Users/Green/Desktop/Arcanoid1/Arc/Content/BP_Ball.uasset",
+				"C:/Users/Green/Desktop/Arcanoid1/Arc/Content/BP_Vaus.uasset",
+				"C:/Users/Green/Desktop/Arcanoid1/Arc/Content/BP_Golden.uasset",
+				"C:/Users/Green/Desktop/Arcanoid1/Arc/Content/BP_Distructable.uasset",
+				"C:/Users/Green/Desktop/Arcanoid1/Arc/Content/BP_BonusCube.uasset",
+				"C:/Users/Green/Desktop/Arcanoid1/Arc/Content/BP_Bonus1.uasset",
+				"C:/Users/Green/Desktop/Arcanoid1/Arc/Content/BP_Bonus2.uasset",
+				"C:/Users/Green/Desktop/Arcanoid1/Arc/Content/BP_Obstacle.uasset",
+				"C:/Users/Green/Desktop/Arcanoid1/Arc/Content/BP_Blocks.uasset"
+			]
+		}
+	]
+}
